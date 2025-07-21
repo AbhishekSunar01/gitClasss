@@ -3,5 +3,6 @@
 public class Main {
     public static void main(String[] args) {
 
+        Student student_one = new Student("trisan","trisanpun@gmail.com","C6");
     }
 }
