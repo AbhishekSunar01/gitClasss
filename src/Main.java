@@ -7,5 +7,6 @@ public class Main {
         Student student2=new Student("trisan","trisan@gmail.com","c6");
         Student student5 = new Student("Rishav", "rishav@gmail.com", "C6");
         Student s1 = new Student("Prashamsa", "prashamsathapaliya@gmail.com", "C8");
+        Student student = new Student("dabin", "dabin@gamail.com","C6");
     }
 }
